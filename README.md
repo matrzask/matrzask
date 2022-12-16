@@ -8,4 +8,5 @@ https://matrzask.github.io/
 
 ### DreamFusion: Text-to-3D using 2D Diffusion
 Fork repozytorium: https://github.com/matrzask/stable-dreamfusion
-Artukuł: https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion
+
+Artykuł: https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion
